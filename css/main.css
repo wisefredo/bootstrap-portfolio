@@ -1,0 +1,46 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.fontBigger {
+	font-size: 40px;
+	color:#FFFFFF;
+}
+/*header*/
+.backgroundColor {
+	background-color: #63a8a4;
+}
+
+/*Nav Bar*/
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.profilepic {
+	width: 200px;
+	height: 200px;
+	margin-right: 10px;
+}
+
+.icon {
+	width: 60px;
+	height: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
